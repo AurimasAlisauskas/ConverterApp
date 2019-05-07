@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meters To Inches</string>
+    <string name="error_message">Please enter valid number</string>
+    <string name="enter_in_meters">Enter In Meters</string>
+    <string name="convert_to_inches">Convert to Inches</string>
+    <string name="todo">TODO</string>
+</resources>
